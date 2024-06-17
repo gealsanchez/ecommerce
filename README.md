@@ -81,7 +81,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- - [Live Demo Link](https://main--beercatbog-official.netlify.app/)
+- - [Live Demo Link](https://ecommerce-beer-bog.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
